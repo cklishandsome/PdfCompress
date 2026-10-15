@@ -1,0 +1,6 @@
+
+
+
+
+
+pyinstaller --noconfirm docx2pdf_tool.spec
